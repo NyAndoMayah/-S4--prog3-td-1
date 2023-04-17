@@ -11,5 +11,3 @@ Create a Spring Boot project from scratch. Create the following classes:
 All these classes are @Component, and their instantiation should be done by Spring during its @ComponentScan.
 
 In particular, make sure that ConcreteClassX have access to ConcreteDependencyX (i.e. make sure to use the right level of visibility for the attributes in AbstractClassX)
-
-Translated with www.DeepL.com/Translator (free version)
